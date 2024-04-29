@@ -1,2 +1,2 @@
 # Mapa Elastina
-Mapeo para identificar la vulnerabilidad energética en Colombia.
+Mapeo para identificar la pobreza energética en Colombia.
